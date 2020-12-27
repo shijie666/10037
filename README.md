@@ -1,7 +1,6 @@
 # 10037
-Time and space travel 
-[reading]()
-
+Time and space travel   
+- [ ] [reading](https://github.com/shijie666/10037/blob/main/read/MyReading.md)
 ## 10059 
 [开源之路第一步--Github项目同步](https://github.com/shijie666/10037/blob/main/202012/10059.md)
 ```txt
