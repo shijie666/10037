@@ -1,6 +1,7 @@
 # 10037
 Time and space travel   
 - [ ] [reading](https://github.com/shijie666/10037/blob/main/read/MyReading.md)
+- [ ] [就攒个服务器吧](https://github.com/shijie666/10037/blob/main/linux/Server.md)
 ## 10067 缓存1
 [缓存--通用缓存技术](https://github.com/shijie666/10037/blob/main/202101/10067.md)
 ```txt
