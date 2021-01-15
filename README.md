@@ -3,6 +3,14 @@ Time and space travel
 - [ ] [reading](https://github.com/shijie666/10037/blob/main/read/MyReading.md)
 - [ ] [就攒个服务器](https://github.com/shijie666/10037/blob/main/linux/Server.md)  
 
+## 10079 使用demo案例体会转发, 拦截, 限流, 熔断等场景
+[使用demo案例体会转发, 拦截, 限流, 熔断等场景](https://github.com/shijie666/10037/blob/main/202101/10078.md)
+```text
+Soul的核心功能之一就是插件化控制流量, 今天就来看看有哪些插件可以使用  
+怎么配置, 如何启动, 都适用什么场景...  
+更多场景记得去官网哦 
+```
+
 ## 10078 初识Soul:源码阅读环境的搭建
 [初识Soul:源码阅读环境的搭建](https://github.com/shijie666/10037/blob/main/202101/10078.md)
 ```text
