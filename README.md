@@ -3,8 +3,15 @@ Time and space travel
 - [ ] [reading](https://github.com/shijie666/10037/blob/main/read/MyReading.md)
 - [ ] [就攒个服务器](https://github.com/shijie666/10037/blob/main/linux/Server.md)  
 
+## 10080 使用demo案例体会dubbo的转发场景
+[使用demo案例体会dubbo的转发场景](https://github.com/shijie666/10037/blob/main/202101/10080.md)
+```text
+`apache-dubbo` 以插件方式被融合到Soul中, 如何实现转发? 很值得期待.    
+事情都不是一蹴而就的, 一步步走反而会更快.
+```
+
 ## 10079 使用demo案例体会转发, 拦截, 限流, 熔断等场景
-[使用demo案例体会转发, 拦截, 限流, 熔断等场景](https://github.com/shijie666/10037/blob/main/202101/10078.md)
+[使用demo案例体会转发, 拦截, 限流, 熔断等场景](https://github.com/shijie666/10037/blob/main/202101/10079.md)
 ```text
 Soul的核心功能之一就是插件化控制流量, 今天就来看看有哪些插件可以使用  
 怎么配置, 如何启动, 都适用什么场景...  
